@@ -1,0 +1,7 @@
+{
+  "domain": "techlife_lights",
+  "name": "Techlife lights",
+  "version": "1.0",
+  "dependencies": [],
+  "requirements": ["paho-mqtt==1.6.1"]
+}
